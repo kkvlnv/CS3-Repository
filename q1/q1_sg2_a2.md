@@ -14,6 +14,10 @@
 
 **Instructions:**
 
+The problem: Finding the highest (Maximum) number from a given list of numbers.
+
+
+
 
 
 
