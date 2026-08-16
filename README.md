@@ -17,3 +17,7 @@ This is a cat
 | Paragraph | Text |
 ### Activity 1:
 https://github.com/kkvlnv/CS3-Repository/blob/main/q1/q1_sg2_a1.md
+### Activity 2:
+
+### Activity 3:
+https://github.com/kkvlnv/CS3-Repository/blob/main/q1/q1_sg2_a3.py
