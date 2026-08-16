@@ -7,7 +7,7 @@
   <td align = "right"><b>Score:</b>________________</td>
 </tr>
 <tr>
-  <td align = "left"><b>C# / Name:</b> (#28, #29, #30) Salvador, Beatrice D.</td>
+  <td align = "left"><b>C# / Name:</b> (#28, #29, #30) Quiambao, Salvador, Villanueva</td>
   <td align = "right"><b>Date:</b>_________________</td>
 </tr>
 </table>
