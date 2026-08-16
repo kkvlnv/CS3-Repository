@@ -10,51 +10,91 @@
     <td align="left"><b>C# / Name:</b> (#28,#29,#30) Quiambao, Salvador, Villanueva</td>
     <td align="right"><b>Date:</b> ___________________</td>
   </tr>
-</table>
+</table
 
-Scenario:
+Scenario
 
-The PSHS school canteen is small and often gets crowded during lunch but the process is slow because:
+The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
 
-- Some students take too long to decide what to order.
-- The cashier has to manually calculate totals and give change.
-- There is no system to track which food items are running out.
-
-Your group's task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
+Some students take too long to decide what to order.
+The cashier has to manually calculate totals and give change.
+There is no system to track which food items are running out.
+Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 **Step 1: Identify the Big Problem**
 
 Main Problem: The PSHS school canteen gets overcrowded and slows down the process of buying food.
 
 **Step 2: Identify three to four Sub-Problems**
-
 Please list possible sub-problems:
-1. There is a large ratio of students to concessionaire staff. (time breaks - there is a 10-15 min lunch time window for each grade)
-2. Cashier has to manually calculate the prices and change. (POS apps)
-3. Students take too long to decide what to order. (pre-paid orders, could do a weekly/daily meal plan being sent to emails)
-4. The food items are not tracked for how much is left. (POS apps)
+
+1. There is a larger ratio of students than the concessionaire staff.
+
+2. Cashier has to manually calculate the prices and change.
+
+3. Students take too long to decide what to order.
+
+4. Food items are not tracked for how much is left.
 
 **Step 3: Define Computational Thinking Approaches**
-
 For each sub-problem, apply CT skills:
 
-<table width = "100%">
-  <tr>
-    <td align= "left"><h3>Sub-Problem</h3>
-    <td align= "middle"><h3>CT Skill</h3>
-    <td align= "right"><h3>Example Solution</h3>
-  </tr>
-  <tr>
-    <td align = "left">More students than concessionaire staff</td>
-  </tr>
-</table>
+Sub-Problem
 
-Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem.
+1. Larger ratio of students than concessionaire staff
+2. Delay of manual input of prices
+3. Indecisiveness of students leading to accumulation of line
+4. No tracker for food items
 
- - Psuedocode for sub-problem #1:
+CT Skill
+
+1. Algorithm Design, Data Collection, Data Analysis
+2. Automation
+3. Automation, Algorithm Design
+4. Automation
+
+Example Solution
+
+1. Insert 10-15 minute windows in between grade levels' lunch period dismissals
+   so that the canteen line will be regulated.
+2. Use Point of Sale Systems (POS) installed in devices to act as a register.
+3. Send out weekly/biweekly meal plan through Gmail so that students could determine
+   their lunch prior to even entering the canteen. With this could also come pre-paid
+   lunches, which could be picked up at a separate area.
+5. Point of Sale Systems (POS) could help keep track of the stock and supply of the food.
+
+**Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem**
+
+Identified Sub-Problem: Larger Ratio of Students than Concessionaire Staff
 
 START
-  INPUT grade_level
-  
-  
-  
+
+WHILE TRUE
+
+   DISPLAY "Enter Grade Level: "
+   
+   INPUT grade_level
+
+   IF 7 <= grade_level <= 9 THEN
+   
+      DISPLAY "Your lunch break will be from 11:20 AM to 12:05 PM."
+      
+      BREAK
+      
+   ELIF 10 <= grade_level <= 12 THEN
+   
+      DISPLAY "Your lunch break will be from 12:10 PM to 1:00 PM."
+      
+      BREAK
+      
+   ELSE
+   
+      DISPLAY "Invalid input."
+      
+   ENDIF
+   
+ENDWHILE
+
+STOP
+
+   
