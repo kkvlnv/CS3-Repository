@@ -1,4 +1,4 @@
-# CS3-Repository ⪩ ⪨ ꠹ Welcome
+# CS3-Repository 
 Code Repository for **CS3** Activities
 Hello! I am Kayla Villanueva from 9 - Pinatubo. ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
 
