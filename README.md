@@ -2,7 +2,7 @@
 Code Repository for **CS3** Activities
 Hello! I am Kayla Villanueva from 9 - Pinatubo. ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
 
-# Activities ⪩ ⪨ ꠹
+## Activities ⪩ ⪨ ꠹
 ### SG2 Activity 1:
 https://github.com/kkvlnv/CS3-Repository/blob/main/q1/q1_sg2_a1.md
 ### SG2 Activity 2:
@@ -16,4 +16,4 @@ https://github.com/kkvlnv/CS3-Repository/blob/main/q1/q1_sg6_pinatubo_villanueva
 ### SG7 Activity: Code the Lab Inventory Hierarchy
 https://github.com/kkvlnv/CS3-Repository/blob/main/q1/q1_sg7_pinatubo_villanueva.py
 
-# Sample Codes ⪩ ⪨ ꠹
+## Sample Codes ⪩ ⪨ ꠹
