@@ -25,11 +25,11 @@ class Patient:
         
 class SeniorPatient(Patient):
     def calculate_bill(self):
-        return super().calculate_bill() * 0.80
+        return self.get_bill_amount() * 0.80
         
 class PhilHealthPatient(Patient):
     def calculate_bill(self):
-        return super().calculate_bill() * 0.85
+        return self.get_bill_amount() * 0.85
         
 regular_patient = Patient("Francesca Raymundo", 15000.00)
 senior_patient = SeniorPatient("Zakiyyah Muneer Munnilakath", 15000.00)
